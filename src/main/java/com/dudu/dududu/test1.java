@@ -6,4 +6,6 @@ public class test1 {
 
     private String pwd;
 
+    private String remake;
+
 }
