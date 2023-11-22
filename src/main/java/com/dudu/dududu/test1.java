@@ -4,4 +4,6 @@ public class test1 {
 
     private String name;
 
+    private String pwd;
+
 }
